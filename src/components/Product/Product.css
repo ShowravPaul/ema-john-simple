@@ -1,0 +1,19 @@
+.product{
+    display: flex;
+    border-bottom: 2px solid lightblue;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.product-name{
+    color: blue;
+    font-weight: 400;
+}
+.add-to-cart-button{
+    background-color: gold;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
