@@ -1,6 +1,5 @@
 .header img{
     height: 80px;
-    background-color: lemonchiffon;
 }
 .header{
     text-align: center;
@@ -12,7 +11,7 @@
 }
 nav a{
     text-decoration: none;
-    color: wheat;
+    color: white;
     margin-right: 20px;
     padding: 5px;
 }
